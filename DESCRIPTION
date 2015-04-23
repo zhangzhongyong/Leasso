@@ -1,0 +1,9 @@
+Package: LEASSO
+Type: Package
+Title: What the package does (short line)
+Version: 1.0
+Date: 2015-04-22
+Author: Zhang Zhongyong
+Maintainer: Zhang Zhongyong <zyzhang@stu.xmu.edu.cn>
+Description: More about what it does (maybe more than one line)
+License: What license is it under?
